@@ -1,8 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>Aura</title>
-    <description>Aura Sparkle appcast feed</description>
-    <language>en</language>
-  </channel>
+    <channel>
+        <title>Aura</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 06 Apr 2026 14:30:07 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mayajuni/aura-releases/releases/download/aura-v0.1.0/Aura-0.1.0.zip" length="4722499" type="application/octet-stream" sparkle:edSignature="XvWpdAyCbaQriAQIa91h35Tp3F4IjoheXy+0WHZG1o+mnnU2vDItuMDGSjlTF8I2n2J+UtwkImbjbMiqLXS5BA=="/>
+        </item>
+    </channel>
 </rss>
