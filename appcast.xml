@@ -3,12 +3,23 @@
     <channel>
         <title>Aura</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 07 Apr 2026 09:07:05 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/mayajuni/aura-releases/releases/download/aura-v0.1.1/Aura-0.1.1.zip" length="4726674" type="application/octet-stream" sparkle:edSignature="9E8gN2ckTYi1mYVbo5AstUskqJLCfuC+Foqoh0+sU0BU2S8Lrx/RSr02LCp0n0aVRfmemxuokbocksON5lyFAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/mayajuni/aura-releases/releases/download/aura-v0.1.1/Aura2-1.delta" sparkle:deltaFrom="1" length="333586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="camQhxyQxlgxRxflaui1Z7iF6l9NuiPrH0L6V8moqUWdDRX+ygNd6/5k28DuWyTFW5Lgo02jK0FDGPfZvmc0BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Mon, 06 Apr 2026 14:30:07 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mayajuni/aura-releases/releases/download/aura-v0.1.0/Aura-0.1.0.zip" length="4722499" type="application/octet-stream" sparkle:edSignature="XvWpdAyCbaQriAQIa91h35Tp3F4IjoheXy+0WHZG1o+mnnU2vDItuMDGSjlTF8I2n2J+UtwkImbjbMiqLXS5BA=="/>
+            <enclosure url="https://github.com/mayajuni/aura-releases/releases/download/aura-v0.1.1/Aura-0.1.0.zip" length="4722499" type="application/octet-stream" sparkle:edSignature="XvWpdAyCbaQriAQIa91h35Tp3F4IjoheXy+0WHZG1o+mnnU2vDItuMDGSjlTF8I2n2J+UtwkImbjbMiqLXS5BA=="/>
         </item>
     </channel>
 </rss>
